@@ -7,6 +7,7 @@ body {
     color: white;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     padding: 0 250px;
     margin: 0;
 }
@@ -18,8 +19,8 @@ ul {
     display: flex;
     gap: 20px;
     font-size: larger;
-    justify-self: flex-end;
     color: #e5e7eb;
+    padding-left: auto;
 }
 .first {
     background-color: #1f2937;
@@ -107,13 +108,38 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
+}
+.sign-up {
+    background-color: #3882F6;
+    color: white;
+    border-color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    font-weight: 900;
+    font-size: medium;
+
 }
 .box {
     background-color: #3882F6;
-    padding: 50px;
+    width: 900px;
+    height: 50px;
+    padding: 50px 100px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    border-radius: 10px;
+}
+.text {
+    align-content:  flex-start;
+}
+#call {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+#call-p {
+    margin-top: 0px;
 }
 .footer {
     background-color: #1f2937;
