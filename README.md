@@ -16,4 +16,4 @@ The Landing Page project from [The Odin Project](https://www.theodinproject.com/
 
 ![Landing Page](./images/Screenshot.png)
 
-Over the course of this project refined my CSS flex box skills to allow for a dynamic webpage properly position HTML elements. Git was used over the course of the project for version control.
+Over the course of this project, I refined my CSS flex box skills to allow for a responsive webpage with properly positioned HTML elements. Git was used for version control.
