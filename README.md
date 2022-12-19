@@ -12,4 +12,8 @@ The Landing Page project from [The Odin Project](https://www.theodinproject.com/
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/> </a>Git
 
+### Overview
+
 ![Landing Page](./images/Screenshot.png)
+
+Over the course of this project refined my CSS flex box skills to allow for a dynamic webpage properly position HTML elements. Git was used over the course of the project for version control.
