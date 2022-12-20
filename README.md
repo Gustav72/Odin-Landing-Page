@@ -17,3 +17,5 @@ The Landing Page project from [The Odin Project](https://www.theodinproject.com/
 This is a landing page template. Over the course of this project, I refined my CSS flex box skills to allow for a responsive webpage with properly positioned HTML elements. Git was used for version control.
 
 ![Landing Page](./images/Screenshot.png)
+
+Thank You for taking the time to look at my work!
